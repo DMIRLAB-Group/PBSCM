@@ -31,9 +31,9 @@ causal_graph = learning_causal_direction(data, skeleton)
 
 # Real World Experiment
 
-The real world experiment is implemented in the script `foot_ball_event_causal_discovery.py`. The dataset used for this experiment, `event.csv`, can be found on Kaggle: [Football Events Dataset](https://www.kaggle.com/datasets/secareanualin/football-events?select=events.csv).
+The real world experiment is implemented in `foot_ball_event_causal_discovery.py`. The dataset used for this experiment, `events.csv`, can be found on Kaggle: [Football Events Dataset](https://www.kaggle.com/datasets/secareanualin/football-events?select=events.csv).
 
-To run the real experiment, make sure to download the dataset and place `event.csv` in the appropriate directory. Additionally, we provide a processed version of the data: `foot_ball_event_table.csv`.
+To run the real experiment, make sure to download the dataset and place `events.csv` in the appropriate directory. Additionally, we provide a processed version of the data: `foot_ball_event_table.csv`.
 
 
 
